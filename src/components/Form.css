@@ -38,3 +38,15 @@ label{
     border: none;
     margin-bottom: 10px;
 }
+
+@media (min-width: 768px) and (max-width: 991px){
+    .form_background{
+            margin: 30px 10%;
+    }
+}
+
+@media (min-width: 280px) and (max-width: 767px){
+    .form_background{
+            margin: 30px 5%;
+    }
+}
