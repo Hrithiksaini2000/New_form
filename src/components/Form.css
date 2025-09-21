@@ -38,7 +38,9 @@ label{
     border: none;
     margin-bottom: 10px;
 }
-
+textarea{
+    margin-bottom: 15px;
+}
 @media (min-width: 768px) and (max-width: 991px){
     .form_background{
             margin: 30px 10%;
